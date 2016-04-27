@@ -99,6 +99,12 @@ section h5 {
 #about-logo {
   width: 240px;
 }
+#about-logo > a:hover {
+  width: 240px;
+  color: orange;
+  border-color: orange;
+  text-decoration: none;
+}
 #about > p {
   font-weight: 400;
   font-size: 20px;
