@@ -171,7 +171,7 @@ p.gym-about {
 /*Program area*/
 
 #programs-background{
-  background-image: url("../images/boxing.jpg");
+  background-image: url("../images/ropes2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -379,13 +379,14 @@ footer h3 {
 
 /*  Contact Us Icons ---------------------------------- */
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
-
+/*
 html{
   background-image: url("../images/ropes2.jpeg");
   /*background:url("assets/images/background1.jpg"); no-repeat;*/
-  background-size: cover;
+  /*background-size: cover;
   height:100%;
 }
+*/*/
 
 
 #feedback-page{
