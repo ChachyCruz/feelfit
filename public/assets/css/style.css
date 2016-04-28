@@ -99,7 +99,7 @@ section h5 {
 #about-logo {
   width: 240px;
 }
-#about-logo:hover {
+.icon-nav a:hover {
   width: 240px;
   color: orange;
   border-color: orange;
