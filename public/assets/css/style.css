@@ -101,8 +101,8 @@ section h5 {
 }
 .icon-nav a:hover {
   width: 240px;
-  color: orange;
-  border-color: orange;
+  color: #3498db;
+  border-color: #3498db;
   text-decoration: none;
 }
 #about > p {
